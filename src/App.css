@@ -1,0 +1,5 @@
+button[data-active='true'] {
+  @apply bg-teal-200;
+  cursor: theme('cursor.pointer');
+  padding: theme('padding.1') theme('padding.3');
+}
